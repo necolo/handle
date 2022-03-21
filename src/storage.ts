@@ -19,8 +19,8 @@ export const acceptCollecting = useStorage('handle-accept-collecting', true)
 
 export const meta = computed<TriesMeta>({
   get() {
-    if (!(dayNo.value in history.value))
-      history.value[dayNo.value] = {}
+    // if (!(dayNo.value in history.value))
+    history.value[dayNo.value] = {}
     return history.value[dayNo.value]
   },
   set(v) {

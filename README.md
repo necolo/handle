@@ -1,5 +1,9 @@
 ![](./public/og.png)
 
+Forked from [Wordle](https://www.powerlanguage.co.uk/wordle/).  
+
+删除了每日一题的限制, 尽情游玩吧。
+
 # 汉兜 Handle
 
 A Chinese Hanzi variation of [Wordle](https://www.powerlanguage.co.uk/wordle/). 汉字 Wordle.
