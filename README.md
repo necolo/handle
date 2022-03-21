@@ -2,7 +2,7 @@
 
 Forked from [Wordle](https://www.powerlanguage.co.uk/wordle/).  
 
-删除了每日一题的限制, 尽情游玩吧。
+删除了每日一题的限制, 尽情游玩吧。 [Play it here](https://necolo.github.io/handle/)
 
 # 汉兜 Handle
 
